@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "804658198590",
+    "firebase_url": "https://rilintern-aee18.firebaseio.com",
+    "project_id": "rilintern-aee18",
+    "storage_bucket": "rilintern-aee18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804658198590:android:e3643473dc77b145",
+        "android_client_info": {
+          "package_name": "com.example.shivanibhandari.tankbargraph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804658198590-gjvk19gghou5tu185onj8mt0jh8i1egs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivanibhandari.tankbargraph",
+            "certificate_hash": "9516c6bf9f6ff4c2ed034c0a82e4a42eba73f62e"
+          }
+        },
+        {
+          "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQmMnmMq-padpcAMNbOpwqeb9joV9QEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804658198590:android:004a4b311284fd8d",
+        "android_client_info": {
+          "package_name": "com.example.shivanibhandari.tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804658198590-5p6siin6jr2nis84dhvmllvuj8u5ci9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shivanibhandari.tester",
+            "certificate_hash": "9516c6bf9f6ff4c2ed034c0a82e4a42eba73f62e"
+          }
+        },
+        {
+          "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQmMnmMq-padpcAMNbOpwqeb9joV9QEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804658198590:android:6aa4432454674204",
+        "android_client_info": {
+          "package_name": "com.example.swetasamaddar.tankbarfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804658198590-e624rokeib67m5d69n37b7lgcv08sj3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swetasamaddar.tankbarfirebase",
+            "certificate_hash": "8c9c6d85df595b8972c517bcecce365a606aac81"
+          }
+        },
+        {
+          "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQmMnmMq-padpcAMNbOpwqeb9joV9QEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804658198590:android:359d25db70d5bf2e",
+        "android_client_info": {
+          "package_name": "com.example.swetasamaddar.tankril"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804658198590-06ieckcf8pcjemeti725er6bf746pj7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swetasamaddar.tankril",
+            "certificate_hash": "8c9c6d85df595b8972c517bcecce365a606aac81"
+          }
+        },
+        {
+          "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQmMnmMq-padpcAMNbOpwqeb9joV9QEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804658198590:android:6bcc55e59392d2a9",
+        "android_client_info": {
+          "package_name": "edu.sfsu.cs.orange.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804658198590-rbp3k3eo4mgv00bds0t77buo69sc1se1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sfsu.cs.orange.ocr",
+            "certificate_hash": "9516c6bf9f6ff4c2ed034c0a82e4a42eba73f62e"
+          }
+        },
+        {
+          "client_id": "804658198590-b1u1qlvaqbtum4j9o6s5b3v6amt3m37i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.sfsu.cs.orange.ocr",
+            "certificate_hash": "413e2d53d3dc73db12f15519ceb7376392d36629"
+          }
+        },
+        {
+          "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzQmMnmMq-padpcAMNbOpwqeb9joV9QEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804658198590-8rrmh3p809ekgmf3a4ep7tesfbt7n93o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
